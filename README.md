@@ -34,6 +34,4 @@ PostgreSQL
 
 6. In browser of your choice go to "localhost\makisite"
 
-## Authors
 
-* **Maryna Kovalenko** 
